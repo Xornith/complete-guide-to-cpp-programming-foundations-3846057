@@ -9,7 +9,7 @@
 std::vector<int> SelectKeyPoints(std::vector<int> distances, int checkpointIndex){
     std::vector<int> result;
 
-    // Write your code here
+    std::vector<int>SelectKeyPoints(std::vector<int> distances, int checkpointIndex);
     
     return result;
 }
