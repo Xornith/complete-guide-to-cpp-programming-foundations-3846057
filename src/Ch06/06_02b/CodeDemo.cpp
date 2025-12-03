@@ -4,6 +4,12 @@
 
 #include <iostream>
 
+
+int square (int x){
+    x = x* x;
+    return x;
+}
+
 int main(){
     int a = 9, b;
     // TODO: square
